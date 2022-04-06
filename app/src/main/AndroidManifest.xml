@@ -10,7 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Muvvi">
         <activity
-            android:name=".MainActivity"
+            android:name=".onboarding.OnBoardingThreeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".onboarding.OnBoardingTwoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".onboarding.OnBoardingOneActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

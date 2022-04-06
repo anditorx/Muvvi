@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Muvvi</string>
+    <string name="lewatiPerkenalan">Lewati Perkenalan</string>
+    <string name="lanjutkan">Lanjutkan</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="now_playing_desc">Lebih mudah untuk mengetahui\nfilm yang sedang tampil</string>
+    <string name="pre_sale">Pre Sale</string>
+    <string name="pre_sale_desc">Tidak khawatir ketinggalan update film baru.</string>
+    <string name="Cashless">Cashless</string>
+    <string name="Cashless_desc">Gunakan e-walet untuk transaksi tiket nonton.</string>
 </resources>
