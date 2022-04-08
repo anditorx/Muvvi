@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import android.os.Looper
 import com.anditorx.muvvi.onboarding.OnBoardingOneActivity
 
 class SplashScreenActivity : AppCompatActivity() {
@@ -11,8 +12,8 @@ class SplashScreenActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splashscreen)
 
-        var handler = Handler()
-        handler.postDelayed({
+
+        Handler(Looper.getMainLooper()).postDelayed({
             var intent = Intent(this@SplashScreenActivity, OnBoardingOneActivity::class.java)
             startActivity(intent)
             finish()
