@@ -24,4 +24,6 @@
     <string name="batalkan">Batalkan</string>
     <string name="save">Simpan</string>
     <string name="edit_profile">Edit Profile</string>
+    <string name="my_wallet">My Wallet</string>
+    <string name="saldo">Saldo</string>
 </resources>
