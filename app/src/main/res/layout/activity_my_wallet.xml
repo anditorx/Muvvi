@@ -31,8 +31,7 @@
         android:layout_marginTop="16dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ic_baseline_arrow_white_24"
-        android:contentDescription="TODO" />
+        app:srcCompat="@drawable/ic_baseline_arrow_white_24" />
 
     <TextView
         android:id="@+id/textView31"
@@ -71,7 +70,7 @@
         android:layout_marginEnd="16dp"
         android:text="Riwayat Transaksi"
         android:textColor="@color/white"
-        android:textSize="18"
+        android:textSize="18sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
