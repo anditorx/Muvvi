@@ -22,4 +22,6 @@
     <string name="checkout">Checkout</string>
     <string name="bayar_sekarang">Bayar Sekarang</string>
     <string name="batalkan">Batalkan</string>
+    <string name="save">Simpan</string>
+    <string name="edit_profile">Edit Profile</string>
 </resources>
