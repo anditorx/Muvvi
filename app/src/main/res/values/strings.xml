@@ -26,4 +26,5 @@
     <string name="edit_profile">Edit Profile</string>
     <string name="my_wallet">My Wallet</string>
     <string name="saldo">Saldo</string>
+    <string name="history">History</string>
 </resources>
