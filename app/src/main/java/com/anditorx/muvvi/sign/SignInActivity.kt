@@ -1,7 +1,8 @@
-package com.anditorx.muvvi
+package com.anditorx.muvvi.sign
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.anditorx.muvvi.R
 
 class SignInActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

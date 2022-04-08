@@ -19,4 +19,7 @@
     <string name="upload_later">Upload Nanti</string>
     <string name="save_and_next"><![CDATA[Simpan & Lanjutkan]]></string>
     <string name="pilih_bangku">Pilih Bangku</string>
+    <string name="checkout">Checkout</string>
+    <string name="bayar_sekarang">Bayar Sekarang</string>
+    <string name="batalkan">Batalkan</string>
 </resources>
