@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137094181652",
+    "project_id": "muvvi-4a63c",
+    "storage_bucket": "muvvi-4a63c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137094181652:android:5c611595ce999b1c4bc801",
+        "android_client_info": {
+          "package_name": "com.anditorx.muvvi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137094181652-k4qm1o1k0sgm03de7ppj20e619ft28ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjBLEdkAyPFx6pKoknI7s45B0MJngIH0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137094181652-k4qm1o1k0sgm03de7ppj20e619ft28ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
